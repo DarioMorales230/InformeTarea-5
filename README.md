@@ -16,11 +16,11 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 2.1. Resumen Capitulo 9
 
-
+![untitled@2x (11)](https://user-images.githubusercontent.com/85144847/126400229-b9bf434a-7539-4847-83aa-8a31a7db3fea.png)
 
 2.2. Resumen Capitulo 10
 
-
+![WhatsApp Image 2021-07-18 at 20 10 26](https://user-images.githubusercontent.com/85144847/126400180-60f16444-9ac2-4244-86a9-cdee2f6e1ee1.jpeg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
