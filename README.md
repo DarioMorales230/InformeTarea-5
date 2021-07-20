@@ -30,6 +30,12 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 3.2. CAPITULO 10
 
+10-1 Capacitancia
+
+1. Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
+
+![image](https://user-images.githubusercontent.com/85144847/126401351-7cf3859c-9ea9-48a9-b507-a3f547f2ab48.png)
+
 
 4. VIDEO DE YOUTUBE
 
