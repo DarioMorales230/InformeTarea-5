@@ -659,36 +659,59 @@ Desarrollo:
 Redibujando el circuito tenemos:
 
 ![image](https://user-images.githubusercontent.com/85144847/126523506-a426890a-c0ef-4460-b1bb-68a8cdc1dbec.png)
+![image](https://user-images.githubusercontent.com/85144847/126524677-fb3edbce-5879-4b95-85da-05139c62d541.png)
 
+![image](https://user-images.githubusercontent.com/85144847/126524752-4ee3dfea-d70e-4372-a52c-ac05bcf63ae3.png)
+![image](https://user-images.githubusercontent.com/85144847/126525176-c74ce9cb-46fc-4fb9-ac6c-2c2bf0b0d993.png)
 
+Teorema de Reciprocidad 
 
+49. a. Determine la corriente I en el circuito de la figura 9-107 
 
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
+![image](https://user-images.githubusercontent.com/85144847/126525870-7b211063-506b-4980-902d-a6d866c56d83.png)
 
+Aplicando Teorema de Thevenin:
 
+![image](https://user-images.githubusercontent.com/85144847/126526372-935a2348-4453-4503-b739-324ba9db53fa.png)
 
+![image](https://user-images.githubusercontent.com/85144847/126526662-007ee318-74ba-4fe6-beb1-1e07b18f6d12.png)
+![image](https://user-images.githubusercontent.com/85144847/126526929-c710cb03-2d9d-4e62-9ff5-820811697e9b.png)
 
+![image](https://user-images.githubusercontent.com/85144847/126527078-8b3c1df4-b047-4b01-906b-8e7242ac111c.png)
+![image](https://user-images.githubusercontent.com/85144847/126527120-833b1d2d-52bf-43b9-91cc-262222e00500.png)
 
+![image](https://user-images.githubusercontent.com/85144847/126527368-aa99ebb9-6dad-4058-87c7-4c868c51fb30.png)
 
+Con el circuito thevenin tenemos:
 
+![image](https://user-images.githubusercontent.com/85144847/126527609-b5722e5d-60eb-4be4-8c1d-5e29c8222540.png)
+![image](https://user-images.githubusercontent.com/85144847/126527737-44e5d729-cc04-427e-adec-a6926b1fcd7d.png)
 
+b) Comprobacion
 
+![image](https://user-images.githubusercontent.com/85144847/126527874-62afd1e9-ce9f-4540-9837-9a9e84372b27.png)
 
+51. a. Determine el voltaje V en el circuito de la figura 9-109.
 
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
+![image](https://user-images.githubusercontent.com/85144847/126528018-608f2de6-c4d8-4223-9dc1-b5e2cbccf993.png)
 
+![image](https://user-images.githubusercontent.com/85144847/126528969-8591f212-9496-4fa8-ad6a-1f46ecdeaad3.png)
 
+Rb=37.5+30+12.5=80 Ω
 
+![image](https://user-images.githubusercontent.com/85144847/126529010-95f8da8f-74a1-4424-940f-551bb3923fd9.png)
+![image](https://user-images.githubusercontent.com/85144847/126529060-18a86241-6b3e-4e74-9615-fa19e2e7237b.png)
 
+b) 
 
+![image](https://user-images.githubusercontent.com/85144847/126529739-635be763-83cf-483b-b82f-3a309263ccee.png)
 
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/85144847/126529637-e8c8aecf-098a-4968-9f62-c22131f99ae6.png)
+![image](https://user-images.githubusercontent.com/85144847/126530388-c60a7b06-32bc-4fe1-94fd-c4ed6addde4b.png)
 
 3.2. CAPITULO 10
 
@@ -863,14 +886,75 @@ C = 24.99 μF
 
 27. Determine CT para cada uno de los circuitos de la figura 10-33.
 
+![image](https://user-images.githubusercontent.com/85144847/126532049-9727e9e1-991f-4764-a760-0a6b56f663b7.png)
+![image](https://user-images.githubusercontent.com/85144847/126532542-ff4d46f5-b02f-42dd-8b42-18fad6db4a85.png)
 
+![image](https://user-images.githubusercontent.com/85144847/126532576-81a2c871-9d1a-458a-8520-db6422d47a23.png)
+![image](https://user-images.githubusercontent.com/85144847/126532725-311f200b-65f0-498b-b858-c2e8d0113924.png)
 
+![image](https://user-images.githubusercontent.com/85144847/126532766-cb8eadb6-329c-4efc-9d29-87d4a59ef847.png)
+![image](https://user-images.githubusercontent.com/85144847/126533239-24e6e449-88b6-41c4-9526-360cc188275b.png)
 
+![image](https://user-images.githubusercontent.com/85144847/126533276-50ca574d-9859-48c9-984c-f371b3dbe5f0.png)
+![image](https://user-images.githubusercontent.com/85144847/126533707-a023a472-6e81-419d-98b5-4a4c09fb5eea.png)
 
+29. Un capacitor de 30 μF se conecta en paralelo con un capacitor de 60 μF, y otro de 10 μF se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
 
+- Desarrollo:
 
+![image](https://user-images.githubusercontent.com/85144847/126534275-e3da5319-879b-4b89-b131-d4254c340696.png)
+![image](https://user-images.githubusercontent.com/85144847/126534027-331d30d0-21a0-4132-96e4-2ad74936c266.png)
 
+31. Para la figura 10-36, determine C3 y C4.
 
+![image](https://user-images.githubusercontent.com/85144847/126534405-36983cb8-eb0b-4d99-9ca8-26fea0a6ba15.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/126535581-9f6ae3d1-c4f6-478b-bce0-df0a64575fda.png)
+
+•	Para valores 
+
+![image](https://user-images.githubusercontent.com/85144847/126535676-2037669a-6e77-4f78-b0c0-2298f818e6dd.png)
+
+•	Reemplazando ecuaciones 
+
+![image](https://user-images.githubusercontent.com/85144847/126535735-1ebb29c3-942c-4a11-afc2-8c22d84fc8d2.png)
+
+•	Para valor de C4
+
+![image](https://user-images.githubusercontent.com/85144847/126535788-66b95e66-a2e7-4fc6-a8a9-065e1ab67d5d.png)
+
+33. Se tienen capacitores de 22, 47, 2.2 y 10 µF. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
+
+![image](https://user-images.githubusercontent.com/85144847/126537501-01639fd0-5e00-4298-8e97-5e4deb9cf402.png)
+
+Ceq= C1+C2+C3+C4
+Ceq= 22+47+2.2+10 (µF)
+Ceq= 81.2 µF
+
+![image](https://user-images.githubusercontent.com/85144847/126537677-dc1188ae-7cae-43a3-8039-aca87cb4c6bb.png)
+![image](https://user-images.githubusercontent.com/85144847/126537871-ee914acc-c669-422c-93d7-eaeb4af32bcf.png)
+
+35. Considere capacitores de 1, 1.5 y 10 µF. Si CT = 10-6 µF, ¿cómo están conectadoslos capacitores?
+
+![image](https://user-images.githubusercontent.com/85144847/126538476-ac2905c5-8d21-4e99-8c48-2e37362ca45c.png)
+![image](https://user-images.githubusercontent.com/85144847/126538823-a39ae14a-d701-44bb-88b0-4b64dcbc5f07.png)
+
+37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b.
+
+- Desarrollo 
+
+c)
+
+![image](https://user-images.githubusercontent.com/85144847/126539347-f5db7dfc-28b8-4ebe-bc80-8cb2a13e5a98.png)
+![image](https://user-images.githubusercontent.com/85144847/126539378-89ac2e53-b8c5-49cf-8d9c-6bc5b722f19b.png)
+
+d) 
+
+![image](https://user-images.githubusercontent.com/85144847/126539477-e24cbd63-f03a-47f0-868e-39690835de32.png)
+![image](https://user-images.githubusercontent.com/85144847/126540506-2b3845fb-194f-4110-a4cc-93987194b085.png)
+![image](https://user-images.githubusercontent.com/85144847/126540540-00067104-9005-4559-aefd-a3dce95e56cf.png)
 
 
 
