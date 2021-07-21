@@ -774,6 +774,19 @@ C = 25-0.00875 μF
 
 C = 24.99 μF
 
+10-7 Capacitores en paralelo y en serie
+
+23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 µF conectados en paralelo?
+
+![image](https://user-images.githubusercontent.com/85144847/126451195-80636f4a-bfd3-468c-b172-89e1c2c88c72.png)
+
+25. Repita el problema 23 si los capacitores están conectados en serie.
+
+![image](https://user-images.githubusercontent.com/85144847/126451837-4558ca91-09c0-43e2-a3b8-cbd3e5bfb2d9.png)
+
+27. Determine CT para cada uno de los circuitos de la figura 10-33.
+
+
 
 
 
