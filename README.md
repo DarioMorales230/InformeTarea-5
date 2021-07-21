@@ -92,13 +92,15 @@ C = 5 µF
 
 V = 84 v
 
-Resolucion:
+Resolución:
 
 Q = C*V 
 
 Q = (5 µF)(84 v)
 
 Q = 420 μC
+
+10-2 Factores que afectan la capacitancia
 
 7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguiente dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
 
@@ -120,9 +122,11 @@ Datos:
  
  C = 55 *10^(-4) C                                                       
  
- Resolucion:
+Resolución:
  
  ![image](https://user-images.githubusercontent.com/85144847/126410958-35ea8c8f-a427-4f95-a9bd-11efc90c461b.png)
+ 
+ 10-3 Campos eléctricos
 
 13. a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
 
@@ -141,16 +145,260 @@ Resolución:
  Desarrollo:
  
  ![image](https://user-images.githubusercontent.com/85144847/126411085-7607584d-4dcc-4a50-a930-845f0259f562.png)
+ 
+ 10-4 Dieléctricos
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
 
 ![image](https://user-images.githubusercontent.com/85144847/126411142-cff84094-01bd-4497-8f82-5c24b9b87b54.png)
 
+17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
+
+Sabemos que la fuerza dieléctrica de la mica es ξ_((ruptura))=40kV/mm  tenemos que: 
+
+![image](https://user-images.githubusercontent.com/85144847/126412188-70235a48-c371-4a80-ae3b-43f8334e8640.png)
+
+•	Ahora se elimina la fuerza dieléctrica se remplaza con la fuerza dieléctrica del aire:
+
+![image](https://user-images.githubusercontent.com/85144847/126412289-70235059-b780-4944-b23b-18fbb9aff8c4.png)
+
+
+19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
+
+![image](https://user-images.githubusercontent.com/85144847/126412341-2e9b94b3-b5b7-411c-b153-e6ea16af9623.png)
+
+Resolución:
+
+a) Puntos
+
+b) Esferas 
+
+c) Puntos
+
+10-5 Efectos no ideales 
+
+21. Un capacitor de 25 F tiene un coeficiente de temperatura negativo de 175 ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
+
+•	Coeficiente de Temperatura es igual a => Partes por Millón O (ppm)/ Cambio de Temperatura
+
+![image](https://user-images.githubusercontent.com/85144847/126412529-3f82e84f-2cf9-4d0f-a2a4-a91767d9a67d.png)
+
+• Por lo tanto, la capacitancia disminuye en 0.00875 μF con aumento de temperatura y determinamos el nuevo valor de capacitancia siendo:
+
+C = 25-0.00875 μF
+
+C = 24.99 μF
 
 
 
 
 
+
+
+
+
+
+
+
+10-7 Capacitores en paralelo y en serie
+
+39. Repita el problema 38 para el circuito de la figura 10-39.
+
+![image](https://user-images.githubusercontent.com/85144847/126412837-bbcb9d2e-6eb0-473d-b2e4-69ed541400db.png)
+
+Cp = 35μF + 25μF
+
+Cp = 60 μF
+
+Redibujando el circuito nos da:
+
+![image](https://user-images.githubusercontent.com/85144847/126412905-9e518c9f-ac30-4825-92d1-3fc4bf647177.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126412934-ab6c6d56-4d99-4ea9-88c0-12c70cf78a3b.png)
+![image](https://user-images.githubusercontent.com/85144847/126412950-9ef45b59-bd59-4dc4-8f62-7ef6eace843f.png)
+![image](https://user-images.githubusercontent.com/85144847/126412974-6b5333e3-2853-46ad-b8e3-6f66650abfaa.png)
+![image](https://user-images.githubusercontent.com/85144847/126413015-29dc3b40-c1ab-439e-b3df-a702e2cdaad8.png)
+
+41. Para la figura 10-41, determine Cx.
+
+![image](https://user-images.githubusercontent.com/85144847/126413062-b2ef2a20-7446-4959-a6b7-989429bfb978.png)
+
+Redibujando el circuito nos da:
+
+![image](https://user-images.githubusercontent.com/85144847/126413078-e7084f54-e756-45e5-bda7-e13439a091d6.png)
+
+Resolución:
+
+![image](https://user-images.githubusercontent.com/85144847/126413120-6fe8bb6b-cf9b-44cb-9ffc-12ddc678142a.png)
+![image](https://user-images.githubusercontent.com/85144847/126413194-01260746-d47d-4acc-b6ba-6aebc46eb339.png)
+
+10-8 Corriente y voltaje en el capacitor 
+
+43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente iC a escala con valores numéricos.
+
+![image](https://user-images.githubusercontent.com/85144847/126413284-0438db85-3eed-484d-a31b-12b6ca7ac93c.png)
+
+• Escribiendo la formula del capacitor:
+
+![image](https://user-images.githubusercontent.com/85144847/126413303-49242bb3-7446-4c9e-96c7-93a13d8ad64b.png)
+
+• Para la ecuación de la parte (1) el voltaje de la curva es: 
+
+Puntos=(0;0)(1m;-10)
+
+(y-0)(1×10^(-3)-0)=(x-0)(-10-0)
+
+y = -10×10^(-3)
+
+• Para la ecuación de la parte (2) el voltaje de la curva es: 
+
+Puntos=(1m;-10)(4m;20)
+
+(y+10)(4×10^(-3)-1×10^(-3) )=(x-1×10^(-3) )(20+10)
+
+y+10=10×10^(-3) (x-1×10^(-3) )
+
+𝑦 = 10×10−3y=10×10^(-3) x-20
+
+• Para la ecuación de la parte (3) el voltaje de la curva es: 
+
+Puntos=(4m;20)(6m;20)
+
+(y-20)(6×10^(-3)-4×10^(-3) )=(x-4×10^(-3) )(20-20)
+
+y = 20
+
+• Para la ecuación de la parte (4) el voltaje de la curva es: 
+
+Puntos=(6m;20)(7m;30)
+
+(y-20)(7×10^(-3)-6×10^(-3) )=(x-6×10^(-3) )(30-20)
+
+(y-20)1×10^(-3)=10(x-6×10^(-3) )
+
+y = 10×10^(-3) x-40
+
+•	Para la ecuación de la parte (5) el voltaje de la curva es: 
+
+Puntos=(7m;30)(9m;0)
+
+(y-30)(9×10^(-3)-7×10^(-3) )=(x-7×10^(-3) )(0-30)
+
+y-30=-15×10^(-3) (x-7×10^(-3) )
+
+y = -15×10^(-3) x + 135
+
+![image](https://user-images.githubusercontent.com/85144847/126413752-98f5df4c-8d83-4438-adc8-46709d71fc30.png)
+
+Determinando el capacitor por varios intervalos de tiempo:
+
+![image](https://user-images.githubusercontent.com/85144847/126413914-ab92f386-3cdc-4268-803f-5f17a7e6c007.png)
+![image](https://user-images.githubusercontent.com/85144847/126413934-5fde15bb-6631-4f9d-9777-3cc183066c5e.png)
+![image](https://user-images.githubusercontent.com/85144847/126414057-8cf27172-5315-4ac5-8fd7-714a0b2d6972.png)
+![image](https://user-images.githubusercontent.com/85144847/126414085-1cbc2100-5de1-4c1d-a148-a7bc310c681b.png)
+![image](https://user-images.githubusercontent.com/85144847/126414106-036a3cb0-9152-4fde-8cb9-0ad239c6ef31.png)
+
+b. Dibuje la corriente iC
+
+![image](https://user-images.githubusercontent.com/85144847/126414207-a544712f-a5b8-4280-9f97-b9bb82117387.png)
+
+45. Si el voltaje en un capacitor de 4.7F es vC 100e0.05t V, ¿qué valor tiene iC?
+
+Voltaje dado por el Capacitor:
+
+Vc = 100e^(-0.05t) V      
+
+ C = 4.7 - μF
+
+![image](https://user-images.githubusercontent.com/85144847/126414360-09ade38a-2687-4534-9625-15212201ba71.png)
+
+10-9 Energía almacenada por un capacitor 
+
+47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t= 0, 1, 4, 5, 7 y 9 ms. 
+
+![image](https://user-images.githubusercontent.com/85144847/126414517-075a66bd-511a-4d7a-8ec9-82e835727c25.png)
+
+•	Para la ecuación de la parte (1) el voltaje de la curva es: 
+
+Puntos=(0;0)(1m;-10)
+
+(y-0)(1×10^(-3)-0)=(x-0)(-10-0)
+
+y=-10×10^(-3)
+
+•	Para la ecuación de la parte (2) el voltaje de la curva es: 
+ 
+Puntos=(1m;-10)(4m;20)
+
+(y+10)(4×10^(-3)-1×10^(-3) )=(x-1×10^(-3) )(20+10)
+
+y+10=10×10^(-3) (x-1×10^(-3) )
+
+𝑦=10×10−3
+
+y = 10×10^(-3) x-20
+
+•	Para la ecuación de la parte (3) el voltaje de la curva es: 
+
+Puntos=(4m;20)(6m;20)
+
+(y-20)(6×10^(-3)-4×10^(-3) )=(x-4×10^(-3) )(20-20)
+
+y = 20
+
+•	Para la ecuación de la parte (4) el voltaje de la curva es: 
+
+Puntos=(6m;20)(7m;30)
+
+(y-20)(7×10^(-3)-6×10^(-3) )=(x-6×10^(-3) )(30-20)
+
+(y-20)1×10^(-3)=10(x-6×10^(-3) )
+
+y = 10×10^(-3) x-40
+
+•	Para la ecuación de la parte (5) el voltaje de la curva es: 
+
+Puntos=(7m;30)(9m;0)
+
+(y-30)(9×10^(-3)-7×10^(-3) )=(x-7×10^(-3) )(0-30)
+
+y-30=-15×10^(-3) (x-7×10^(-3) )
+
+y = -15×10^(-3) x+135
+
+• Desarrollo de las ecuaciones
+
+![image](https://user-images.githubusercontent.com/85144847/126414938-f3ba01b8-2e38-43a4-9c90-1a2f118bd5cc.png)
+
+•	Conociendo la energía del capacitor:
+
+![image](https://user-images.githubusercontent.com/85144847/126415150-34035da7-579e-41c4-95de-248d395c58b5.png)
+![image](https://user-images.githubusercontent.com/85144847/126415163-4f27bf7e-90f4-4334-adb9-cb9da2120d53.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126415205-4a76384f-fd04-4cb0-a9c1-23b0b0dde70f.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126415241-f7bbcd24-a3f0-4b2e-9c65-408f9c042fdb.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126415272-51de3fbb-d9be-412f-8fbd-7613318d4d7c.png)
+![image](https://user-images.githubusercontent.com/85144847/126415291-ff4e0032-db8b-4178-a248-2f22ed0b30cb.png)
+
+49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
+
+![image](https://user-images.githubusercontent.com/85144847/126415367-dcb4de93-f67c-4a8b-a408-365d1d6470b6.png)
+
+Resolución:
+
+a) 
+
+![image](https://user-images.githubusercontent.com/85144847/126415488-674e5ce1-3731-4f90-a2e4-0cb4269767c9.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85144847/126415556-81128609-74cc-47ee-a29a-2f23d0de7451.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/85144847/126415595-6beeb301-9e2b-4b5c-89f3-cb73cb08a1a5.png)
 
 5. VIDEO DE YOUTUBE
 
