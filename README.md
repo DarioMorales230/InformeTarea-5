@@ -344,14 +344,200 @@ Redibujando el circuito nos da:
 ![image](https://user-images.githubusercontent.com/85144847/126427040-a18e6c47-6c07-439c-b79d-7035907dbda9.png)
 ![image](https://user-images.githubusercontent.com/85144847/126427057-2c91693c-58cd-4845-bd3e-277c71485885.png)
 
+33. Repita el problema 31 para el circuito de la figura 9-91.
 
+![image](https://user-images.githubusercontent.com/85144847/126427488-996ffe75-9688-4a26-bbe2-505fe7ed2ba0.png)
 
+![image](https://user-images.githubusercontent.com/85144847/126427516-b371339d-b688-4670-8feb-c3e32ad989b7.png)
 
+RN = 15+25+20
 
+RN = 60 kΩ
 
+![image](https://user-images.githubusercontent.com/85144847/126427585-4bd8b303-6b34-4f1c-8e7b-a285b392a99b.png)
+![image](https://user-images.githubusercontent.com/85144847/126427641-23765ea2-1b38-4567-94e5-8ca32421c315.png)
 
+![image](https://user-images.githubusercontent.com/85144847/126427656-64b69580-6d1e-4796-ab73-7098dff5a249.png)
+![image](https://user-images.githubusercontent.com/85144847/126427688-8fba3ed4-004a-41ad-8119-5caa0a727ed7.png)
 
+![image](https://user-images.githubusercontent.com/85144847/126427710-999c0542-ec24-4677-ba47-477a84312f20.png)
 
+RTh = 15+25+20
+
+RTh = 60 kΩ
+
+![image](https://user-images.githubusercontent.com/85144847/126427743-f00a98bb-9542-404f-9e70-339b19331709.png)
+
+ETh = -I(25)
+ETh = -3×(25)
+ETh = -75 V
+
+![image](https://user-images.githubusercontent.com/85144847/126427792-19882ad8-b432-4038-98c5-877e0feb095b.png)
+![image](https://user-images.githubusercontent.com/85144847/126427830-77f83580-7521-4934-92f5-79db0e6655d1.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126427854-788c1fa8-f43d-43d1-af93-839a6c2c2a9f.png)
+![image](https://user-images.githubusercontent.com/85144847/126427874-70f4e7fc-df7c-406d-b98d-09a0c0a69e58.png)
+
+35. Repita el problema 31 para el circuito de la figura 9-95.
+
+![image](https://user-images.githubusercontent.com/85144847/126428079-26c52203-7c24-4569-851f-3f6191c1b9d3.png)
+
+Determinando la resistencia equivalente de Norton el circuito queda igual:
+
+![image](https://user-images.githubusercontent.com/85144847/126428129-8399e3a5-0045-42d4-a63a-3ca18d810d6c.png)
+![image](https://user-images.githubusercontent.com/85144847/126428197-69360345-88d8-4314-b888-b982ed4a8bd7.png)
+
+Calculando I_(ab(1))  el circuito queda de la manera:
+
+![image](https://user-images.githubusercontent.com/85144847/126428275-c1d89191-3662-468e-9e43-b7806b451af6.png)
+
+(18Ω||0Ω)=0Ω
+
+![image](https://user-images.githubusercontent.com/85144847/126428350-06e69540-0fa5-4f80-bf5f-d32ecb783e5f.png)
+![image](https://user-images.githubusercontent.com/85144847/126428401-970a313a-f46d-4e62-96de-ff7a80deb319.png)
+
+Ahora se considerarán a la fuente de 300mA el circuito queda como:
+
+![image](https://user-images.githubusercontent.com/85144847/126428660-a50ed167-687b-4a45-8d10-61723e6e81c7.png)
+![image](https://user-images.githubusercontent.com/85144847/126428724-799e31e0-eea9-4baf-b8f7-3a601e998cc5.png)
+![image](https://user-images.githubusercontent.com/85144847/126428734-28a8e4f7-e9bb-4da9-af52-04d2de737037.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126428806-aa2e2819-c82b-4a8e-91b8-aef61348aee9.png)
+![image](https://user-images.githubusercontent.com/85144847/126428829-6e31a4d2-a34e-48b0-a353-2f85539f9fdf.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126428890-f7dbae93-1625-4374-877d-975ea9eb20ff.png)
+![image](https://user-images.githubusercontent.com/85144847/126428942-fdf6cc5f-7cfa-4486-a23b-d721fac73a2f.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126429032-49a25468-87b8-4d99-b9ef-1346f45b3f64.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126429072-6ce89df5-0085-4c9b-98d5-0e40dfaa6d2b.png)
+![image](https://user-images.githubusercontent.com/85144847/126429088-440d6412-00ab-40b5-9017-636062c180fe.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126429306-8e9aa5ae-ba3f-42d9-a19a-3083a976767e.png)
+![image](https://user-images.githubusercontent.com/85144847/126429342-defb3a60-65b3-4abb-b638-5fe5fe0b0efe.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126429358-e454b0aa-e49a-48a4-88de-5a53d87b6e6a.png)
+
+9-4 Teorema de transferencia de máxima potencia 
+
+37. a) Para el circuito de la figura 9-91 determine el valor de RL para que se suministre la máxima potencia a la carga.
+ 
+b) Calcule el valor de la máxima potencia que puede ser suministrada a la carga. 
+
+c) Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0  a 50 k en incrementos de 5k
+
+![image](https://user-images.githubusercontent.com/85144847/126429482-fa929099-0e16-4882-a71a-b8f7dc19a7a5.png)
+
+Redibujando el circuito nos da:
+
+![image](https://user-images.githubusercontent.com/85144847/126429808-4386c72c-1487-4999-96de-794d781b2b4a.png)
+
+RTh=15kΩ+25kΩ+20kΩ
+
+RTh=60kΩ
+
+![image](https://user-images.githubusercontent.com/85144847/126429847-35be2eb4-22de-4b8d-9fa8-e8f7ba906771.png)
+
+ETh(1) =-I×(25kΩ)
+
+ETH(1) =-(3mA)×(25kΩ)
+
+ETh(1) = -75 V
+
+![image](https://user-images.githubusercontent.com/85144847/126429926-8f175959-77ed-4f08-ad76-305cb2a0c9e3.png)
+
+Calculando el ETh(2)∶
+
+ETh(2) =I×(20kΩ)
+
+ETH(2) =(5mA)×(20kΩ)
+
+ETh(2)=100 V
+
+ETh=ETH(1) + ETH(2) 
+
+ETH=-75V+100V
+
+ETh=25 V
+
+El circuito resultante equivalente de Thevenin queda como:
+
+![image](https://user-images.githubusercontent.com/85144847/126430070-1982cbc1-af5f-4edc-99ea-b027731ed57b.png)
+
+a) La potencia máxima de carga se dará cuando RL=RTh
+
+=>RL=60kΩ 
+
+![image](https://user-images.githubusercontent.com/85144847/126430128-75c7db46-28f2-4260-8ab7-8184ad655b92.png)
+
+ c) PL=VL*IL
+ 
+![image](https://user-images.githubusercontent.com/85144847/126430735-8eae805e-d995-46ee-8e58-80f78e491a4c.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126430801-c458bdd5-2761-4120-91d7-ee3e19b7dd09.png)
+
+39. a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL RTh.
+
+b. Calcule la máxima potencia disipada por RL
+
+![image](https://user-images.githubusercontent.com/85144847/126430848-bb30f54a-357f-4d5c-9597-408973b68702.png)
+
+Buscando el valor de R se redibuja el circuito y queda como:
+
+![image](https://user-images.githubusercontent.com/85144847/126431295-d34c451c-6819-4a63-a2e1-6f031c7238f5.png)
+![image](https://user-images.githubusercontent.com/85144847/126431311-eba366e7-4d2e-4da2-a00a-fba3086597e8.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126431337-5066e98e-8145-41ad-8537-2655f9922076.png)
+
+b) Calcule la máxima potencia disipada por RL se redibuja el circuito como:
+
+![image](https://user-images.githubusercontent.com/85144847/126431386-8a8eaa88-eb05-4e70-b415-e04b0ba03d50.png)
+![image](https://user-images.githubusercontent.com/85144847/126431418-825cd06d-10fa-4b48-82f1-8e4f84e49569.png)
+
+El circuito resultante equivalente de Thevenin queda como:
+
+![image](https://user-images.githubusercontent.com/85144847/126431476-30491a2f-9bca-45c3-b871-32e14144af29.png)
+
+La potencia máxima disipada es:
+
+![image](https://user-images.githubusercontent.com/85144847/126431501-5d31edf1-5f95-427a-850e-7c68f47d2ef0.png)
+
+41. a) Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 k reciba la máxima potencia. 
+
+b) Calcule la máxima potencia suministrada por RL.
+
+![image](https://user-images.githubusercontent.com/85144847/126431547-41c1595c-396a-4cee-ab95-39b5a725b609.png)
+
+a) Buscando el valor de R_1  y R_2 se redibuja el circuito y queda como:
+
+![image](https://user-images.githubusercontent.com/85144847/126433761-d83849ad-9e97-4d8c-ad5d-c4374f26b2d7.png)
+![image](https://user-images.githubusercontent.com/85144847/126433793-6b53a61b-f0fa-424e-b81b-d655c42e473a.png)
+
+Usando la ecuación (1):
+
+32kΩ(R_1+(200kΩ-R1 ))=R_1×(200kΩ-R1 )
+
+6400MΩ-(200kΩ) R1+〖R_1〗^2=0
+
+R1=160kΩ
+
+Reeemplazando  la ecuación (1):
+
+R1+R2=200kΩ
+
+(160kΩ)+R2=200kΩ
+
+R2=40kΩ
+
+b)	Calculando la máxima potencia suministrada por RL:
+
+![image](https://user-images.githubusercontent.com/85144847/126433929-74971838-e28b-437e-b363-9b8df5c915ea.png)
+![image](https://user-images.githubusercontent.com/85144847/126433942-576d0f17-4102-4376-ac4b-a0eba292b400.png)
+
+El circuito resultante equivalente de Thevenin queda como:
+
+![image](https://user-images.githubusercontent.com/85144847/126433976-fa8bac2d-17ab-4874-bed2-562d0af65ad2.png)
+![image](https://user-images.githubusercontent.com/85144847/126434003-4c9c469f-8ce5-49a5-bf1e-b3b13dd716af.png)
 
 
 3.2. CAPITULO 10
