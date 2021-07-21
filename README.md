@@ -26,6 +26,26 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 3.1. CAPITULO 9
 
+1. P
+
+3. g
+
+5. fgf
+
+7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
+
+![image](https://user-images.githubusercontent.com/85144847/126417926-b2756332-d93c-4055-985e-958b89a6a609.png)
+
+Resolución:
+
+![image](https://user-images.githubusercontent.com/85144847/126418073-c4bddbce-03f5-4474-9f18-7f898a271035.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126418167-e2379b09-695b-4ceb-b45b-7fc4b80ede70.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126418224-243d3a10-392b-4656-a930-7d809af3f4e6.png)
+
+9. Repita el problema 7 para el circuito de la figura 9-83.
+
 
 
 3.2. CAPITULO 10
