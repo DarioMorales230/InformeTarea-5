@@ -616,6 +616,42 @@ El circuito resultante equivalente de Thevenin queda como:
 ![image](https://user-images.githubusercontent.com/85144847/126433976-fa8bac2d-17ab-4874-bed2-562d0af65ad2.png)
 ![image](https://user-images.githubusercontent.com/85144847/126434003-4c9c469f-8ce5-49a5-bf1e-b3b13dd716af.png)
 
+9-5 Teorema de Sustitucion
+
+43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor de 50 Ω, determine la magnitud y polaridad de la fuente de Voltaje resultante.
+
+![image](https://user-images.githubusercontent.com/85144847/126517047-7fa1d8ec-c45a-4143-9357-db9ab747bd00.png)
+
+•	Reedibujando el circuito tenemos:
+
+![image](https://user-images.githubusercontent.com/85144847/126517478-23c5f245-67ca-4bf6-bda2-757c1a657209.png)
+
+Ra = 75+125+100
+
+Ra = 300 Ω
+
+![image](https://user-images.githubusercontent.com/85144847/126517949-48b95e27-302a-4dc9-84b9-65245c4e35c2.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126518283-550fef63-aa5b-4fba-a555-24f72d5b7cae.png)
+
+9.6 Teorema de Millman
+
+45. Use el teorema de Millman para encontrar la corriente y la potencia disipada por R_L en el circuito de la figura 9-103.
+
+![image](https://user-images.githubusercontent.com/85144847/126518591-e5edb92c-a82e-4017-9535-05846ecd7440.png)
+
+Redibujando un circuito tenemos:
+
+![image](https://user-images.githubusercontent.com/85144847/126519135-55c13223-fe14-474d-8b81-086ff38f5bd8.png)
+
+Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/126520527-d9a74fde-1e0d-4157-9751-737766a2a8e3.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126520551-d474c986-0b6d-4bdc-a6fd-c1ceb0e8ebd3.png)
+![image](https://user-images.githubusercontent.com/85144847/126520637-a8d59e52-2843-49ca-992b-01946a86f4e5.png)
+![image](https://user-images.githubusercontent.com/85144847/126520974-96e0d421-fd31-403c-8bdb-a4eb6ff874ce.png)
+
 
 3.2. CAPITULO 10
 
