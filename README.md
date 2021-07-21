@@ -652,6 +652,43 @@ Desarrollo:
 ![image](https://user-images.githubusercontent.com/85144847/126520637-a8d59e52-2843-49ca-992b-01946a86f4e5.png)
 ![image](https://user-images.githubusercontent.com/85144847/126520974-96e0d421-fd31-403c-8bdb-a4eb6ff874ce.png)
 
+47. Repita el problema 45 para el circuito de la figura 9-105
+
+![image](https://user-images.githubusercontent.com/85144847/126522506-19f9d3d1-93f5-4a68-ad59-2fb282324bad.png)
+
+Redibujando el circuito tenemos:
+
+![image](https://user-images.githubusercontent.com/85144847/126523506-a426890a-c0ef-4460-b1bb-68a8cdc1dbec.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 3.2. CAPITULO 10
 
