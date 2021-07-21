@@ -46,6 +46,38 @@ Resolución:
 
 9. Repita el problema 7 para el circuito de la figura 9-83.
 
+![image](https://user-images.githubusercontent.com/85144847/126418370-5a45ce79-38ff-4d4b-8de6-7e0fd05b5de9.png)
+
+Volviendo a dibujar el circuito para nuestra respectiva resolucion tenemos.
+
+![image](https://user-images.githubusercontent.com/85144847/126418448-be56f316-b88a-4646-b181-94d8d60464f8.png)
+
+Cortocircuitamos la fuente y calculamos.
+
+![image](https://user-images.githubusercontent.com/85144847/126418499-8f3e7250-0f4e-4c92-9cb3-3245282eccc3.png)
+
+-8v + (6.8 KΩ) * I + (1.2 KΩ) * I = 0
+
+-8v + (8 KΩ) * I = 0
+
+I = 1mA
+
+![image](https://user-images.githubusercontent.com/85144847/126418802-34867759-7606-47d2-9f79-58064a2dc5d1.png)
+
+ETh  = - I*R2
+
+ETh  = - (1mA) *(1.2 KΩ)
+
+ETh  = -1.2V
+
+![image](https://user-images.githubusercontent.com/85144847/126418881-4fd51081-24a1-4d57-9082-9f7878a137b2.png)
+
+
+
+
+
+
+
 
 
 3.2. CAPITULO 10
