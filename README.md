@@ -6,11 +6,15 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 1.1. Objetivo General.
 
-
+• Analizar cada circuito para poder sacar las corrientes correctas y de esa forma podremos aprender y calcular mejor los circuitos  del teorema de tevenin y norton. 
 
 1.2. Objetivos Especificos
 
+• Identificar los diferentes circuitos que vamos a revolver en este capítulo para mejorar el aprendizaje de los teoremas de tevenin y norton. 
 
+• Definir de manera correcta cada ecuación que vayamos a utilizar para resolver cada uno de los ejercicios de tevenin y norton. 
+
+• Aprender y desarrollar de  la mejor manera cada uno de los ejercicios para haci poder resolver y entender de la mejor manera los teoremas. 
 
 2. MARCO TEORICO
 
@@ -1004,6 +1008,13 @@ https://youtu.be/qdpNscM0TFk
 
 5. CONCLUSIONES
 
+• Logramos entender de mejor manera cada uno de los  circuitos realizamos en este capítulo. 
+
+• Podemos decir que logramos identificar cada unos de los circuitos y desarrollar cada componente del circuito. 
+
+• Logramos un mejor entendimiento de cada uno de los ejercicios de este capítulo. 
+
+•  Logramos aprender y a desarrollar de mejor manera cada uno de los circuitos propuestos.
 
 6. BIBLIOGRAFIA
 
