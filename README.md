@@ -26,11 +26,84 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 3.1. CAPITULO 9
 
-1. P
+1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
 
-3. g
+![image](https://user-images.githubusercontent.com/85144847/126435398-d25456bb-3813-4977-a7fe-ddcbff58579c.png)
 
-5. fgf
+Desarrollo:
+
+•	Caso A
+
+![image](https://user-images.githubusercontent.com/85144847/126442365-3e804f43-ec40-4b24-9e56-263d1261adc0.png)
+
+Ra=100+50=150 Ω
+
+![image](https://user-images.githubusercontent.com/85144847/126442395-ba122e4f-46d8-41a2-b432-47ab19b353c2.png)
+![image](https://user-images.githubusercontent.com/85144847/126442452-f9600739-c402-42ce-844a-f06134148441.png)
+![image](https://user-images.githubusercontent.com/85144847/126442502-4091c571-17ea-4724-80df-22fe1676a719.png)
+
+•	Caso B
+
+![image](https://user-images.githubusercontent.com/85144847/126442641-231493e2-601f-4d91-9862-13292fd3b263.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126442661-4832c537-232e-4e4e-8762-7d65e47504e7.png)
+![image](https://user-images.githubusercontent.com/85144847/126442731-3c110902-3e2c-48d1-87bd-aded03affd5f.png)
+![image](https://user-images.githubusercontent.com/85144847/126442772-8f9408e8-dd2f-4939-8fa2-bcdcdfe41afa.png)
+![image](https://user-images.githubusercontent.com/85144847/126442805-7fa26325-67a9-43a6-8686-09fa4636f71b.png)
+
+• Por concepto del Principio de Superposición 
+
+I1= 100-25 mA
+
+I1= 75 mA
+
+I2= 100-25 mA
+
+I2= 75 mA
+
+I3= 50+37.5 mA
+
+I3= 87.5 mA
+
+
+3. Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
+
+![image](https://user-images.githubusercontent.com/85144847/126443160-74875be2-bc35-4415-910f-84dbf5aee7f0.png)
+
+Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/126443736-01cf29e8-4947-4039-8b98-4aa03fb668a3.png)
+
+•	Caso A
+
+![image](https://user-images.githubusercontent.com/85144847/126445302-7d8603fd-ba2f-43f5-ab13-238c196ddc42.png)
+![image](https://user-images.githubusercontent.com/85144847/126445342-8819b0c4-45a5-458a-bf73-fb2936fc28bb.png)
+
+•	Caso B
+
+![image](https://user-images.githubusercontent.com/85144847/126445495-f343bea1-6a18-420b-87b6-274bebc574b4.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126446462-230a3e7c-9e9b-4f7b-bac9-1e2f9ae517f1.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126446517-56701626-45cd-49cc-ad0c-c531f6072fd1.png)
+
+5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL 5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
+
+![image](https://user-images.githubusercontent.com/85144847/126446880-11aac342-a504-4589-9c1e-4c5f446422ef.png)
+
+Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/126447365-e019d3ef-4cd2-4ca3-b4b9-9e2368277512.png)
+
+•	Caso A
+
+![image](https://user-images.githubusercontent.com/85144847/126447662-79661eaa-f984-49e9-8f94-6b5a7c249723.png)
+![image](https://user-images.githubusercontent.com/85144847/126449210-e8bd7078-0ef6-494f-ab65-f125f167082d.png)
+
+•	Caso B
+
+![image](https://user-images.githubusercontent.com/85144847/126449271-cb0f6b21-88b9-4f47-bb41-d5b88595f5b5.png)
+![image](https://user-images.githubusercontent.com/85144847/126449354-a1c73fce-03c9-4b5b-9f29-8fc7f51a0d8c.png)
 
 7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
 
