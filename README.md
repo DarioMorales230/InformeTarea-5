@@ -72,6 +72,280 @@ ETh  = -1.2V
 
 ![image](https://user-images.githubusercontent.com/85144847/126418881-4fd51081-24a1-4d57-9082-9f7878a137b2.png)
 
+11. Vea el circuito de la figura 9-85: 
+
+a) Encuentre el circuito equivalente de Thévenin externo a RL.
+
+![image](https://user-images.githubusercontent.com/85144847/126421810-a1a0e060-0cf1-4b0e-8984-1d333d537e94.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126421830-6852c7fa-10c7-4c05-86ce-557c529e890e.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126421862-7ab93ac1-cf98-4258-bc61-dc815a7a61db.png)
+
+RTh  =  0Ω + 16Ω      
+                   
+RTh  = 16 Ω
+
+![image](https://user-images.githubusercontent.com/85144847/126421953-d806200e-963b-44de-8407-793ed78c6c75.png)
+
+ETh(1) = 2.4 v 
+
+![image](https://user-images.githubusercontent.com/85144847/126421989-148818d1-22b1-44d3-9a73-58b5dd63fe75.png)
+
+-3.2v + (I * 16Ω) + ETh(2) = 0
+
+-3.2v * 0 v 16Ω) + ETh(2) = 0
+
+ETh(2) = 3.2v
+
+ETh = ETh(1) + ETh(2)
+
+ETh = 2.4v + 3.2v
+
+ETh = 5.6v
+
+b) Use el circuito equivalente para determinar Vab cuando RL = 20 Ω y cuando RL  50 = Ω.                                                   
+
+![image](https://user-images.githubusercontent.com/85144847/126422193-fc5b3763-d578-41af-97fb-0d370343676a.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126422215-d66b5e65-5b08-4fae-8a82-2ec51fa93a00.png)
+
+13. Vea el circuito de la figura 9-87: 
+
+![image](https://user-images.githubusercontent.com/85144847/126422302-7ac72b77-dde7-4eae-a498-2323204f3241.png)
+
+a) Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
+
+![image](https://user-images.githubusercontent.com/85144847/126422368-10b4038f-ad1f-4119-86d2-fdc14cb56d8e.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126422457-1b4ef62c-0e99-4956-b2f6-5770bd6de5d8.png)
+
+b) a.	Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas. 
+
+![image](https://user-images.githubusercontent.com/85144847/126422539-8da22c06-4ab0-4dd6-b3ef-1f87169995d5.png)
+
+15. Vea el circuito de la figura 9-89:
+
+![image](https://user-images.githubusercontent.com/85144847/126422581-8ce83cb7-a200-4e1c-9519-ce2c8614bb12.png)
+
+a)	Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican.
+
+![image](https://user-images.githubusercontent.com/85144847/126422630-126d7ecc-2208-4712-b771-b9251104d0df.png)
+
+RTh = 2kΩ + 1.8 kΩ
+RTh = 3.8 kΩ
+
+![image](https://user-images.githubusercontent.com/85144847/126422655-6c668508-8556-4100-8d1b-209e6fa85acb.png)
+
+ETh = 25mA * 2kΩ
+ETh = 50.0 v
+
+b) Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas que se indican.
+
+![image](https://user-images.githubusercontent.com/85144847/126422727-82f28151-75d8-4844-af18-27f2ac0e7e9a.png)
+
+- ETh+ (1.5 kΩ*I) -20V +( RTh* I) = 0
+
+- 50v (1.5 kΩ*I) -20V +( 3.8 kΩ * I) = 0
+
+- 70 v + (5.3 kΩ*I) = 0
+
+I = 13.21 mA
+
+17. Vea el circuito de la figura 9-91: 
+
+![image](https://user-images.githubusercontent.com/85144847/126422784-27b07168-d5cb-4541-b2e3-906e8dc12e4f.png)
+
+a.	Encuentre el circuito equivalente de Thévenin externo a RL.
+
+![image](https://user-images.githubusercontent.com/85144847/126422849-06e26a92-945f-499b-abb3-bbc3f29228f1.png)
+
+RTh = 15 kΩ+25 kΩ+20 kΩ
+
+RTh = 60 kΩ
+
+![image](https://user-images.githubusercontent.com/85144847/126422861-ec399fca-6cf2-4dd7-8454-f30b4676eee3.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126422891-288fad5d-3c05-45e8-a9c4-81bbde63e661.png)
+
+ETh(1) =-I * (25 KΩ)
+
+ETh(1) =-(3mA)* (25 KΩ)
+
+ETh(1) =-75 v
+
+![image](https://user-images.githubusercontent.com/85144847/126422954-27bee008-8bcf-4193-8208-57a3ae742322.png)
+
+ETh(2) =-I * (20 KΩ)
+
+ETh(2) =-(5mA)* (20 KΩ)
+
+ETh(2) = -100 v
+
+ETh =-75V + 100v
+
+ETh =25V
+
+b) Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL = 0, 10 k Ω y 50 k Ω.
+
+![image](https://user-images.githubusercontent.com/85144847/126423145-5cddc297-374c-4596-a782-e151de639fc0.png)
+
+RL = 0 k Ω
+
+![image](https://user-images.githubusercontent.com/85144847/126423168-d68e3442-9239-48a7-86d5-ea96ebee6588.png)
+![image](https://user-images.githubusercontent.com/85144847/126423192-09b2d8d6-15bf-41f7-90e2-f5e80a3985e3.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126423206-60ccc88f-0292-4550-b5cf-4ea4a223539d.png)
+![image](https://user-images.githubusercontent.com/85144847/126423228-33632ba6-9add-47eb-b3e5-293270172ce1.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126423263-265ede8b-545f-45a8-bdf9-664518caf5c3.png)
+![image](https://user-images.githubusercontent.com/85144847/126423292-66adee70-72cf-4708-8e15-492981e13927.png)
+
+19. Repita el problema 17 para el circuito de la figura 9-93.
+
+![image](https://user-images.githubusercontent.com/85144847/126423344-002bc08b-dc34-432b-addc-c619835981f5.png)
+
+Resolución:
+
+![image](https://user-images.githubusercontent.com/85144847/126423424-f09a8b17-151e-4a54-af28-443ccb3c970e.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126423457-ff6caa93-fe1b-467f-9826-0dd671cfe02d.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126423487-98bfad69-0887-421f-9944-2aa5af94fff3.png)
+![image](https://user-images.githubusercontent.com/85144847/126423508-316f9273-e692-47c3-a1c3-414454cad32d.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126423549-67bf3d56-0688-4117-99ad-80019d8c9d03.png)
+
+21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
+
+![image](https://user-images.githubusercontent.com/85144847/126424861-f640fcd3-53d0-4637-8d15-57eadd4f758a.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126424925-ee071673-fa7f-4717-b89a-3a923730fdf9.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425005-5514bde6-6db0-4106-9666-3cc97e988010.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425051-3546d5fb-3d17-4113-a813-377c489793f5.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425200-c688dca8-ce91-4223-ac84-75ebeabfd9fa.png)
+
+ETh(2) = -(-I) *7.2 Ω
+
+ETh(2) = (300mA) *7.2 Ω
+ 
+ETh(2) = 2.16 v
+
+ETh = ETh(1) + ETh (2) 
+
+ETh = 2.4 V + 2.16 V 
+
+ETh = 4.56V
+
+23. Repita el problema 22 para el circuito de la figura 9-97.
+
+![image](https://user-images.githubusercontent.com/85144847/126425278-d72af2d2-c41f-444c-825c-0787ea3b5601.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425316-73342f40-930f-4250-88e8-ab7b0fd4a8cb.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425361-026832ef-f63f-4d2e-b7f9-9fb7270d5b9c.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425374-9b3e1ec9-4d0b-4911-ad67-a9b4ac384981.png)
+
+ETh(1) = - (200mA) * (80 Ω)
+
+ETh(1) = -16V
+
+![image](https://user-images.githubusercontent.com/85144847/126425430-c4eb2559-0f00-408e-9278-47a9a99cfabb.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425463-48dd82ca-8675-461e-8dad-d92b092ce3f3.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425487-dde136b0-ae3a-4737-bb2d-ff9a04b84c6d.png)
+
+9-3 Teorema de Norton
+
+25. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
+
+![image](https://user-images.githubusercontent.com/85144847/126425570-f6fe906b-c2c2-4c70-8bfc-e9fcd26fab47.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425629-0e5ac47a-e265-4874-ba2f-81174fcc987f.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425641-b461b558-058e-4a07-8764-098cc7cf005e.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425705-3a533156-2774-4565-ae71-684e3da95b43.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126425736-9d80066a-56a9-4e52-aefc-e70894b1d667.png)
+
+27. Repita el problema 25 para el circuito de la figura 9-83.
+
+![image](https://user-images.githubusercontent.com/85144847/126426117-53dea37c-5f15-4c5b-b72f-4277eb06fd3b.png)
+
+Redibujando el circuito tenemos:
+
+![image](https://user-images.githubusercontent.com/85144847/126426218-c6946f88-c833-4b72-8cbb-5defea05ffc7.png)
+![image](https://user-images.githubusercontent.com/85144847/126426279-380e379c-edc2-454e-81ec-ee92cbab74d5.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126426324-9abdd9d8-062e-43ea-9daf-d046d285d84e.png)
+![image](https://user-images.githubusercontent.com/85144847/126426344-06d6f5b3-03c4-43cf-b58f-698c0e34cbe3.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126426358-746650f5-3a4f-421e-8a44-12c1bcca1aa1.png)
+![image](https://user-images.githubusercontent.com/85144847/126426392-45751b91-19a1-4fbe-9a38-0082e46a80df.png)
+
+29.Vea el circuito de la figura 9-85: 
+
+a. Encuentre el circuito equivalente de Norton externo a RL. 
+
+b. Use el circuito equivalente para determinar IL cuando RL = 20 kΩ y cuando RL = 50 kΩ.
+
+![image](https://user-images.githubusercontent.com/85144847/126426491-26425abb-0ec6-4fe8-89ea-d4c9af8b3b3c.png)
+
+RN = (R2||0)+R1
+
+RN = (0+16)
+
+RN = 16 Ω
+
+Redibujando el circuito nos da:
+
+![image](https://user-images.githubusercontent.com/85144847/126426612-69bf9659-f2c8-40fc-81d9-8fd4a79c188f.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126426635-fd09c0e2-bdfb-4387-963b-81ad17461105.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126426650-848628a7-7b0d-4b6b-9f47-3ff87a6948e6.png)
+![image](https://user-images.githubusercontent.com/85144847/126426682-17f2b6ce-1e15-4247-a473-5a836ad54a84.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126426704-69faef94-ca21-4582-b498-bb736cb52627.png)
+
+b) 
+
+RL=20 Ω
+
+RL=50 Ω
+
+Para RL=20 Ω 
+
+![image](https://user-images.githubusercontent.com/85144847/126426754-f8dd7cd6-abc0-4247-9a6b-a4b170226234.png)
+
+31. a) Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87. 
+
+b) Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton.
+
+![image](https://user-images.githubusercontent.com/85144847/126426846-698fb1a9-7210-419e-a4d9-b02761f3a3ad.png)
+
+Redibujando el circuito nos da:
+
+![image](https://user-images.githubusercontent.com/85144847/126426862-3d4931a5-4230-4cbf-b739-14f09005f06b.png)
+![image](https://user-images.githubusercontent.com/85144847/126426885-85b6b18a-0e0f-4947-a5df-510a413361d9.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126426890-420b8486-4d2f-42f3-9a66-6804a633d29a.png)
+![image](https://user-images.githubusercontent.com/85144847/126426944-42bb1a18-f311-4692-9684-83581df5156e.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126426987-36fba447-e4b8-4a3c-ae06-f898641d8f80.png)
+![image](https://user-images.githubusercontent.com/85144847/126427014-398bbb73-5226-4d4b-8fad-76582d370280.png)
+
+![image](https://user-images.githubusercontent.com/85144847/126427040-a18e6c47-6c07-439c-b79d-7035907dbda9.png)
+![image](https://user-images.githubusercontent.com/85144847/126427057-2c91693c-58cd-4845-bd3e-277c71485885.png)
+
+
+
 
 
 
